@@ -57,4 +57,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 Telegram: [@bat_888](https://t.me/bat_888)
 GitHub: [https://github.com/d0m1n4t3](https://github.com/d0m1n4t3)
 ---
-Thank you for using PIFPlus – helping you maintain trusted Play Integrity and SafetyNet s
